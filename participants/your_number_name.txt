@@ -1,4 +1,5 @@
 merhaba
+min branch ta değişiklik
 added new line
 benjo jacob, C8399-Benjo hesabıdır
 
