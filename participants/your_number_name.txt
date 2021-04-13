@@ -1,5 +1,8 @@
 merhaba
+<<<<<<< HEAD
 min branch ta değişiklik
+hello
+>>>>>>> developer-C8191-Pınar
 added new line
 benjo jacob, C8399-Benjo hesabıdır
 
