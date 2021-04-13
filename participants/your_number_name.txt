@@ -1,4 +1,5 @@
 merhaba
+hello
 added new line
 benjo jacob, C8399-Benjo hesabıdır
 
